@@ -1,0 +1,14 @@
+C:\Users\spect\source\repos\programus\programus\bin\Debug\netcoreapp3.1\programus.exe
+C:\Users\spect\source\repos\programus\programus\bin\Debug\netcoreapp3.1\programus.deps.json
+C:\Users\spect\source\repos\programus\programus\bin\Debug\netcoreapp3.1\programus.runtimeconfig.json
+C:\Users\spect\source\repos\programus\programus\bin\Debug\netcoreapp3.1\programus.runtimeconfig.dev.json
+C:\Users\spect\source\repos\programus\programus\bin\Debug\netcoreapp3.1\programus.dll
+C:\Users\spect\source\repos\programus\programus\bin\Debug\netcoreapp3.1\programus.pdb
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.csproj.AssemblyReference.cache
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.AssemblyInfoInputs.cache
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.AssemblyInfo.cs
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.csproj.CoreCompileInputs.cache
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.dll
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.pdb
+C:\Users\spect\source\repos\programus\programus\obj\Debug\netcoreapp3.1\programus.genruntimeconfig.cache
